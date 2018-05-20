@@ -24,10 +24,13 @@ Click any rss feed to read details news. Enjoy!
 
 ## Installation
 
-1. Clone the project
-  ```sh
-  $ git clone https://tazim92@bitbucket.org/tazim92/rssnewsreader.git
-  ```
-2. Open 'rssnewsreader.xcworkspace' in Xcode
-3. I kept the Pods directory under source control - so after cloning the project you can immediately build and run.
-4. Make sure you open the project  'rssnewsreader.xcworkspace'
+1. Clone the repository
+2. Inside project folder 'rssnewsreader' open 'rssnewsreader.xcworkspace' in Xcode
+3. I kept the Pods directory under source control - so after cloning the project you can immediately build and run
+4. Make sure you open the project from 'rssnewsreader.xcworkspace'
+
+## Libraries used
+- FeedKit
+- RealmSwift
+- AlamofireImage
+- Alamofire
