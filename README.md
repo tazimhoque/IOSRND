@@ -5,7 +5,7 @@ Make a simple registration using the app. After login you can subscribe to any R
 In home page you will see the list of RSS News Feed from your subscribed channel.
 Click any rss feed to read details news. Enjoy!
 
-![](header.png)
+![](header2.png)
 
 ## Features
 
