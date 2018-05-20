@@ -1,8 +1,8 @@
 # RSS News Reader
 > Follow your favorite news from subscribed RSS feeds!
 
-Make a simple registration using the app. After login you can subscribe to any RSS News Feed. 
-In home page you will see the list of RSS News Feed from your subscribed channel.
+Make a simple registration using the app. After login you can subscribe to any RSS News Feed.
+In home page you will see the list of RSS News Feed from your subscribed channels.
 Click any rss feed to read details news. Enjoy!
 
 ![](header.png)
@@ -25,11 +25,12 @@ Click any rss feed to read details news. Enjoy!
 ## Installation
 
 1. Clone the repository
-2. Inside project folder 'rssnewsreader' open 'rssnewsreader.xcworkspace' in Xcode
+2. Inside the project folder 'rssnewsreader' open 'rssnewsreader.xcworkspace' in Xcode
 3. I kept the Pods directory under source control - so after cloning the project you can immediately build and run
 4. Make sure you open the project from 'rssnewsreader.xcworkspace'
 
-## Libraries
+## Libraries used
+
 - FeedKit
 - RealmSwift
 - AlamofireImage
