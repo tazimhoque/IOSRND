@@ -29,7 +29,7 @@ Click any rss feed to read details news. Enjoy!
 3. I kept the Pods directory under source control - so after cloning the project you can immediately build and run
 4. Make sure you open the project from 'rssnewsreader.xcworkspace'
 
-## Libraries used
+## Libraries
 - FeedKit
 - RealmSwift
 - AlamofireImage
